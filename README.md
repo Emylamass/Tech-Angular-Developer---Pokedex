@@ -4,3 +4,5 @@
 Para desenvolver esse projeto, foi utilizado a linguagem de programação TypeScript e o framework Angular, que são tecnologias muito utilizadas no desenvolvimento de aplicações web modernas.
 
 A Pokedex é uma ferramenta bastante útil para quem gosta de jogos de Pokémon ou simplesmente quer saber mais sobre esses personagens icônicos. Através da aplicação, é possível buscar informações sobre cada Pokémon, como o nome, tipo, habilidades, estatísticas e evoluções.
+
+<img src="https://discordapp.com/channels/@me/859243782233784340/1103067334257676380">
